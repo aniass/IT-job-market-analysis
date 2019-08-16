@@ -2,12 +2,13 @@
 # Project: Analysis of the IT job market
 
 ## General info
-The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and other data sources.
+The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and other data sources. 
 
 ## Data sources
 * StackOverflow data
 * Stack Overflow 2018 Developer Survey
 * GitHub data
+* Web scraping from page Indeed.com
 
 ## Technologies
 Project is created with:
