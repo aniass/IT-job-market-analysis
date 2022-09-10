@@ -12,15 +12,15 @@ The data comes from various sources such as:
 * Web scraping from page Indeed.com
 
 ## Project contains:
-- Analysis of StackOverflow data - Analiza_StackOverflowData_zad_2.ipynb
-- Analysis of GitHub data - Analiza_GitHub_zad_3.ipynb
-- Web scraping - AS_web-scraping.ipynb
+- Analysis of StackOverflow data - **Analiza_StackOverflowData_zad_2.ipynb**
+- Analysis of GitHub data - **Analiza_GitHub_zad_3.ipynb**
+- Web scraping - **AS_web-scraping.ipynb**, **web_scraping.py**
 
 ## Technologies
 
 Project is created with:
 * Python 3.6,
-* libraries: pandas, numpy, seaborn, matplotlib, requests, BeautifulSoup;
+* libraries: pandas, numpy, seaborn, matplotlib, requests, BeautifulSoup.
 * SQL, Google BigQuery.
 
 **Running the project:**
