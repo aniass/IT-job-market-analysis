@@ -2,7 +2,7 @@
 # Analysis of the IT job market
 
 ## General info 
-The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and other data sources. We have used SQL, Google Big Query and python data analysis libraries to analyze our data. 
+The project concerns the analysis of the IT job market using data from GitHub, StackOverflow and other data sources. I have used SQL, Google Big Query and python data analysis libraries to analyze the data. 
 
 ## The data
 The data comes from various sources such as:
